@@ -1,9 +1,11 @@
 ##  Hi there 👋
 
-<p aling="justifify"> Eu sou Breno Dias Santos, Estudante <strong>Senai-Ford </strong>, Sáo Paulo-SP/ HT, <Ele/Dele>.
-  Tenho 51 anos, residente em São Paulo.
+<p aling="justifify"> Eu sou Breno Dias Santos, Estudante <strong>Senai-Ford </strong>, Sáo Paulo-SP.
+  HT, tenho 51 anos e residente em São Paulo.
 
   ## Formação
+
+  
 
   ## Objetivo 
   
